@@ -1,0 +1,15 @@
+# Ignorar el entorno virtual de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Ignorar archivos temporales de LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Ignorar archivos de sistema
+.DS_Store
